@@ -1,0 +1,3 @@
+include ':bootstrapalert'
+include ':app'
+rootProject.name = "Alert"
