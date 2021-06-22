@@ -38,28 +38,28 @@ Alert.dark(getBaseContext(),"header text","Message text here");
 ```
 ## Ui
 ### primary
-![primary](https://github.com/alnazer/bootstrap.alert/blob/master/primary.png)
+![primary](https://github.com/alnazer/bootstrap.alert/blob/master/images/primary.png)
 
 ### success
-![success](https://github.com/alnazer/bootstrap.alert/blob/master/success.png)
+![success](https://github.com/alnazer/bootstrap.alert/blob/master/images/success.png)
 
 ### danger
-![danger](https://github.com/alnazer/bootstrap.alert/blob/master/danger.png)
+![danger](https://github.com/alnazer/bootstrap.alert/blob/master/images/danger.png)
 
 ### warning
-![warning](https://github.com/alnazer/bootstrap.alert/blob/master/warning.png)
+![warning](https://github.com/alnazer/bootstrap.alert/blob/master/images/warning.png)
 
 ### info
-![info](https://github.com/alnazer/bootstrap.alert/blob/master/info.png)
+![info](https://github.com/alnazer/bootstrap.alert/blob/master/images/info.png)
 
 ### dark
-![dark](https://github.com/alnazer/bootstrap.alert/blob/master/dark.png)
+![dark](https://github.com/alnazer/bootstrap.alert/blob/master/images/dark.png)
 
 ### light
-![light](https://github.com/alnazer/bootstrap.alert/blob/master/light.png)
+![light](https://github.com/alnazer/bootstrap.alert/blob/master/images/light.png)
 
 ### secondary
-![secondary](https://github.com/alnazer/bootstrap.alert/blob/master/secoundry.png)
+![secondary](https://github.com/alnazer/bootstrap.alert/blob/master/images/secoundry.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
